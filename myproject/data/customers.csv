@@ -1,0 +1,5 @@
+customer_id, first_name, last_name, age, gender, location
+101, John, Doe, 35, Male, New York
+102, Jane, Smith, 29, Female, Los Angeles
+103, Robert, Brown, 45, Male, Chicago
+104, Emily, Davis, 31, Female, Houston

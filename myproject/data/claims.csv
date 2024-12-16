@@ -1,0 +1,5 @@
+claim_id, policy_id, claim_date, claim_amount, claim_type, claim_status
+1, 1, 2024-06-01, 5000, Hospitalization, Approved
+2, 2, 2024-05-10, 15000, Death, Pending
+3, 3, 2023-08-15, 10000, Accident, Rejected
+4, 4, 2024-07-05, 2000, Fire, Approved

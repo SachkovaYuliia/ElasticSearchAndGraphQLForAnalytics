@@ -1,0 +1,5 @@
+policy_id, customer_id, policy_type, start_date, end_date, coverage_amount, premium
+1, 101, Health, 2024-01-01, 2025-01-01, 100000, 500
+2, 102, Life, 2024-03-15, 2025-03-15, 250000, 600
+3, 103, Auto, 2023-06-20, 2024-06-20, 50000, 300
+4, 104, Home, 2024-05-01, 2025-05-01, 150000, 400
